@@ -1,0 +1,36 @@
+{
+  "name": "uniquetech-powerbi",
+  "metadata": {
+    "description": "UNIQUE Power BI course - skills for building dashboards with Claude",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "UNIQUE",
+    "email": "shlomi@uniquetech.co.il"
+  },
+  "plugins": [
+    {
+      "name": "powerbi-dashboard-flow",
+      "source": "./plugins/powerbi-dashboard-flow",
+      "description": "Connect to a Power BI model open in Power BI Desktop and build a dashboard from a plain-language brief, in English or Hebrew.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/powerbi-dashboard-flow"
+      ],
+      "agents": [],
+      "mcpServers": {},
+      "repository": "https://github.com/Shlomi-Unique/powerbi-course",
+      "keywords": [
+        "powerbi",
+        "dashboard",
+        "semantic-model",
+        "pbip",
+        "pbir",
+        "dax",
+        "hebrew",
+        "rtl"
+      ],
+      "license": "MIT"
+    }
+  ]
+}

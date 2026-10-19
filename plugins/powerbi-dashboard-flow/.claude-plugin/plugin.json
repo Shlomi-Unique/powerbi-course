@@ -1,0 +1,25 @@
+{
+  "name": "powerbi-dashboard-flow",
+  "description": "Connect to a Power BI model open in Power BI Desktop and build a dashboard from a plain-language brief, in English or Hebrew.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UNIQUE",
+    "email": "shlomi@uniquetech.co.il"
+  },
+  "homepage": "https://uniquetech.co.il",
+  "repository": "https://github.com/Shlomi-Unique/powerbi-course",
+  "license": "MIT",
+  "keywords": [
+    "powerbi",
+    "dashboard",
+    "semantic-model",
+    "pbip",
+    "pbir",
+    "dax",
+    "hebrew",
+    "rtl"
+  ],
+  "skills": [
+    "./skills/powerbi-dashboard-flow"
+  ]
+}
